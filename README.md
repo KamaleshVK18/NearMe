@@ -149,12 +149,12 @@ Thirumazhisai is a western suburb of Chennai, India. It is located in Thiruvallu
 
 
 ## OUTPUT
-
-
-
-
-
-
+![1](https://github.com/user-attachments/assets/8b333a0f-3367-4cfb-95d5-0dab4125b420)
+![2](https://github.com/user-attachments/assets/89a01ad1-9604-4953-98e8-08c5e508a527)
+![3](https://github.com/user-attachments/assets/cb850074-0697-4cdb-8618-ee5a47298890)
+![4](https://github.com/user-attachments/assets/dbf9d980-5df2-4682-9e8f-1663e9b7f607)
+![5](https://github.com/user-attachments/assets/04eb825c-babb-43bb-9f18-deef9cf9cd5c)
+![6](https://github.com/user-attachments/assets/0e583e4c-f874-4c8b-a6ec-e9f5cfdb0a0a)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
