@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date:30/11/2024
+## Date:30/11/2024.
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -50,7 +50,6 @@ map.html
 </center>
 </body>
 </html>
-
 home.html
 <html>
 <head>
@@ -70,7 +69,6 @@ Poonamallee is a town and suburb of Chennai, India under the Chennai Metropolita
 </p>
 </body>
 </html>
-
 temple1.html
 <html>
 <head>
@@ -90,7 +88,6 @@ The Mangadu Kamakshi Amman Temple is a famous pilgrim destination Hindu temple d
 </p>
 </body>
 </html>
-
 temple2.html
 <html>
 <head>
@@ -110,7 +107,6 @@ A beautiful twin temple one for Kasi Viswanathar and one for Venugopal Swamy. Th
 </p>
 </body>
 </html>
-
 theatre.html
 <html>
 <head>
@@ -130,7 +126,6 @@ EVP Cinemas is a movie theater and theater company in Chennai, Tamil Nadu that o
 </p>
 </body>
 </html>
-
 TMZ.html
 <html>
 <head>
